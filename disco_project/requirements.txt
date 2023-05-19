@@ -1,0 +1,14 @@
+asgiref==3.6.0
+Django==4.1
+django-environ==0.10.0
+django-filter==23.2
+django-thumbnail-maker==0.0.6
+djangorestframework==3.14.0
+easy-thumbnails==2.8.5
+mysqlclient==2.1.1
+Pillow==9.5.0
+pytz==2023.3
+sorl-thumbnail==12.9.0
+sqlparse==0.4.4
+tzdata==2023.3
+whitenoise==6.4.0
